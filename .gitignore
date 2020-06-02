@@ -1,0 +1,6 @@
+models/
+runs/
+*.pt
+*logs
+*.7z
+*.csv
